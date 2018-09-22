@@ -1,0 +1,13 @@
+.image-container {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+img {
+    width: 250px;
+    height: auto;
+    float: right;
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding: 1em;
+}
